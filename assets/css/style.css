@@ -26,7 +26,7 @@
    .first-block {
     min-height: 10rem;
     padding: 7px;
-    background-image: url(/assets/img/handbags-poster.jpg);
+    background-image: url("/assets/img/handbags-poster.jpg");
     background-size: cover;
     object-fit: contain;
     background-position: center;
@@ -36,7 +36,7 @@
    .second-block {
     min-height: 10rem;
     padding: 7px;
-    background-image: url(/assets/img/watch-poster.jpg);
+    background-image: url("/assets/img/watch-poster.jpg");
     background-size: cover;
     object-fit: contain;
     background-position: center;
@@ -46,7 +46,7 @@
    .third-block {
     min-height: 10rem;
     padding: 7px;
-    background-image: url(/assets/img/shoes--poster.jpg);
+    background-image: url("/assets/img/shoes--poster.jpg");
     background-size: cover;
     object-fit: contain;
     background-position: center;
